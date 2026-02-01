@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Gianni Morana 👋
 
+Junior Software Developer
+
+Go • C# • Backend & APIs
+Learning through hands-on projects and Unity game development.
 <!--
 **GianniM9/GianniM9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
